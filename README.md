@@ -2,4 +2,4 @@
 using Html,Bootstrap,Javascript,React.js,json-server API
 
 Live Demo 
- http://striped-letter.surge.sh
+http://miniature-business.surge.sh
